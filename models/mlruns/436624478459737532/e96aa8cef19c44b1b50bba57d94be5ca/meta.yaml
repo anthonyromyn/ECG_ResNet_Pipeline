@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anthony/home/github/laussenlabs_test/models/mlruns/436624478459737532/e96aa8cef19c44b1b50bba57d94be5ca/artifacts
+end_time: 1740944985091
+entry_point_name: ''
+experiment_id: '436624478459737532'
+lifecycle_stage: active
+run_id: e96aa8cef19c44b1b50bba57d94be5ca
+run_name: bright-skink-692
+run_uuid: e96aa8cef19c44b1b50bba57d94be5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740944409057
+status: 3
+tags: []
+user_id: anthony

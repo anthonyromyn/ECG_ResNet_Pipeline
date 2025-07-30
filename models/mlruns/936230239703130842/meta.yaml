@@ -1,0 +1,6 @@
+artifact_location: file:///home/anthony/home/github/lightweight_resnet_heart_monitor/models/mlruns/936230239703130842
+creation_time: 1753813626571
+experiment_id: '936230239703130842'
+last_update_time: 1753813626571
+lifecycle_stage: active
+name: 20250729_142706_ResNet125_firstpass_5trials_10epochs_3folds

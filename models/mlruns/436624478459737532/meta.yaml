@@ -1,0 +1,6 @@
+artifact_location: file:///home/anthony/home/github/laussenlabs_test/models/mlruns/436624478459737532
+creation_time: 1740942162252
+experiment_id: '436624478459737532'
+last_update_time: 1740942162252
+lifecycle_stage: active
+name: 20250302_140242_ResNet125_firstpass_5trials_10epochs_3folds

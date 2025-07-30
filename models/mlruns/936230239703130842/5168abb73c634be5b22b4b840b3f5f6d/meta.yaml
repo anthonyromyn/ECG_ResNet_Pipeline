@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anthony/home/github/lightweight_resnet_heart_monitor/models/mlruns/936230239703130842/5168abb73c634be5b22b4b840b3f5f6d/artifacts
+end_time: 1753814285334
+entry_point_name: ''
+experiment_id: '936230239703130842'
+lifecycle_stage: active
+run_id: 5168abb73c634be5b22b4b840b3f5f6d
+run_name: likeable-grub-442
+run_uuid: 5168abb73c634be5b22b4b840b3f5f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753813626785
+status: 3
+tags: []
+user_id: anthony

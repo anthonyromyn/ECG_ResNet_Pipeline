@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anthony/home/github/lightweight_resnet_heart_monitor/models/mlruns/936230239703130842/920f2ef55b014c9ca56b11db17fd9aab/artifacts
+end_time: 1753815580316
+entry_point_name: ''
+experiment_id: '936230239703130842'
+lifecycle_stage: active
+run_id: 920f2ef55b014c9ca56b11db17fd9aab
+run_name: incongruous-gnu-38
+run_uuid: 920f2ef55b014c9ca56b11db17fd9aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753814933668
+status: 3
+tags: []
+user_id: anthony

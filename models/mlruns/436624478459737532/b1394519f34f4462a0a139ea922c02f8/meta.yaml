@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anthony/home/github/laussenlabs_test/models/mlruns/436624478459737532/b1394519f34f4462a0a139ea922c02f8/artifacts
+end_time: 1740943082316
+entry_point_name: ''
+experiment_id: '436624478459737532'
+lifecycle_stage: active
+run_id: b1394519f34f4462a0a139ea922c02f8
+run_name: monumental-duck-194
+run_uuid: b1394519f34f4462a0a139ea922c02f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740942162497
+status: 3
+tags: []
+user_id: anthony

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anthony/home/github/lightweight_resnet_heart_monitor/models/mlruns/936230239703130842/86e8b7965e1447ec9e38b20733ac5062/artifacts
+end_time: 1753816181468
+entry_point_name: ''
+experiment_id: '936230239703130842'
+lifecycle_stage: active
+run_id: 86e8b7965e1447ec9e38b20733ac5062
+run_name: serious-mole-173
+run_uuid: 86e8b7965e1447ec9e38b20733ac5062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753815580512
+status: 3
+tags: []
+user_id: anthony

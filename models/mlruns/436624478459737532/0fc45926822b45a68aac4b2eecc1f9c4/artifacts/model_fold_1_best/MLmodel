@@ -1,0 +1,29 @@
+artifact_path: model_fold_1_best
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.1
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 240616
+model_uuid: b32a9180c71241a09e7519cdeb30bcfb
+run_id: 0fc45926822b45a68aac4b2eecc1f9c4
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 1,
+    125]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    5]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-02 19:57:16.906914'

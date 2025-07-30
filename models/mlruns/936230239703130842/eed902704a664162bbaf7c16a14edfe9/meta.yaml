@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anthony/home/github/lightweight_resnet_heart_monitor/models/mlruns/936230239703130842/eed902704a664162bbaf7c16a14edfe9/artifacts
+end_time: 1753816661866
+entry_point_name: ''
+experiment_id: '936230239703130842'
+lifecycle_stage: active
+run_id: eed902704a664162bbaf7c16a14edfe9
+run_name: carefree-roo-495
+run_uuid: eed902704a664162bbaf7c16a14edfe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753816181688
+status: 3
+tags: []
+user_id: anthony
