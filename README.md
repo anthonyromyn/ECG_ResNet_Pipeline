@@ -5,20 +5,22 @@
 </a>
 
 # Primary Features
-- accurate classification of five different heartbeat patterns, discerning healthy beats and 4 types of arrhythmias
-- 2.6% increased performance with 0% bigger network over foundational model (96% vs 93.4% average accuracy)
-- Analysis walk-through notebooks
-- Optuna and MLFlow model tracking
-- FastAPI-based model inference
-- Make commands for easy setup 
-- Cookie Cutter Data Science formatted for easy navigation
+- ❤️‍🩹 Accurate classification of five heartbeat patterns (healthy + 4 arrhythmias)
+- 🚀 2.6% performance gain with zero network bloat (96% vs 93.4% avg. accuracy)
+- 📓 Analysis walk‑through notebooks
+- 📈 Optuna & MLflow model tracking  
+- ⚡️ FastAPI‑based model inference  
+- 🛠 Make commands for easy setup  
+- 📂 Cookie‑Cutter Data Science structure for seamless navigation
+
 
 # To start using this repo:
 
 To run the notebooks you must first please: 
 1. run ```make create_environment```
-2. run ```make data``` to generate the raw data
-after which you can progress through the notebooks to see everything this repository has to offer.
+2. run ```workon resnet_hearthealth_monitor``` to activate the virtual environment
+3. run ```make data``` to generate the raw data
+After which you can progress through the notebooks to see everything this repository has to offer.
 
 ## Additional Details
 

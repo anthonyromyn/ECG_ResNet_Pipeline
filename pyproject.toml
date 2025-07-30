@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lightweight_resnet_heart_monitor"
+name = "resnet_hearthealth_monitor"
 version = "0.0.1"
 description = ""
 authors = [
